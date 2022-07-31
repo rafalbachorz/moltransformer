@@ -1,1 +1,1 @@
-from .paths import PIPELINES_DIR, MODELS_DIR
+from .paths import PIPELINES_DIR, MODELS_DIR, DATA_DIR
